@@ -2,9 +2,9 @@
 
 
 
-In this notebooks shown basics operations of Pandas, Numpy and Matplotlib which is so necessary for any Data Wrangling. If you does not understand data and does not perform Data Wrangling you could not find out proper result which will reflects your target forcasting.
+In this notebooks shown basics operations of Pandas, Numpy and Matplotlib which is so necessary for any Data Wrangling. If you does not understand data and does not perform Data Wrangling you could not find out proper result which will reflects your target forcasting. ___After completed Data Wrangling process like Missing value handling, Data standardization, Data normalization, Binning, Indicator variable and so on. Later we have a cleansed dataset with no missing values as well as all data has standard format which types of dataset is very essential for Data Scientist and Data Analyst to continuing their works.___
 
-#### Data Set Information
+### Data Set Information
 __________________________________________________________
 
 This data set consists of three types of entities:
