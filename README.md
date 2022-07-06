@@ -7,7 +7,7 @@ In this notebooks shown basics operations of Pandas, Numpy and Matplotlib which 
 ### Data Set Information
 __________________________________________________________
 
-This data set consists of three types of entities:
+__This data set consists of three types of entities:__
 
 (a) The specification of an auto in terms of various characteristics.
 
